@@ -1,0 +1,11 @@
+models\User.class
+runners\TestRunner.class
+models\CustomFieldSerializer.class
+models\UserAddress.class
+stepDefinitions\CreateNewUserSteps.class
+utils\CSVReaderUtil.class
+utils\CSVTestDataFilter.class
+utils\PhoneNumberGenerator.class
+filters\RequestResponseLoggingFilter.class
+utils\EmailGenerator.class
+hooks\Hooks.class
